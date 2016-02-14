@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 2/14/2016 3:43:41 PM
+
+BeginCmp
+TimeStamp = /56C0EED7;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = _CrumpPrints:CR2032_HOLDER;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0E2E2;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = _CrumpPrints:6x6mm_pushbutton_smd;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0ED6E;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = _CrumpPrints:6x6mm_pushbutton_smd;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0EDBF;
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = _CrumpPrints:6x6mm_pushbutton_smd;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0EDC5;
+Reference = SW4;
+ValeurCmp = SW_PUSH;
+IdModule  = _CrumpPrints:6x6mm_pushbutton_smd;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C0E4A8;
+Reference = U1;
+ValeurCmp = SM200;
+IdModule  = _CrumpPrints:SM200;
+EndCmp
+
+EndListe
